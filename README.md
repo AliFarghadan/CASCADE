@@ -9,9 +9,7 @@ mutagenesis of DNA sequence models.
 
 *A gene's sequence around its transcription start site is embedded by a fine-tuned DNA
 language model and decoded into predicted expression across many cell types (top).
-Per-position attribution scores, compared against their cross-gene background at each
-position, surface candidate regulatory motifs restricted to a single cell type, a single
-tissue, or shared broadly across genes (bottom).*
+CASCADE recovers regulatory motifs at cell-type-, tissue-, and gene-specific resolution (bottom).*
 
 ## What's here
 
