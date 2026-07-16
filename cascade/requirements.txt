@@ -1,0 +1,6 @@
+numpy
+scipy
+modiscolite
+python-igraph
+leidenalg
+h5py
