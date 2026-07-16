@@ -5,6 +5,8 @@ Context-Aware Significance of Cross-gene Attribution for Discovering Elements
 model-derived candidate regulatory elements from *in silico* saturation
 mutagenesis of DNA sequence models.
 
+![Overview: sequence to cell-type-resolved expression, and per-position attribution revealing cell-type-, tissue-, and gene-specific motifs](assets/overview.png)
+
 ## What's here
 
 - **`training/`** -- a training pipeline for a cell-type-resolved
